@@ -4,7 +4,7 @@ MicroMentor solves the asymmetry in the mentorship market. For mentees, it elimi
 
 ## **How did you build it?**
 
-Using Caffeine, I developed a full-stack web application with role-based authentication, real-time session management, and integrated payment processing support. Caffeine's capabilities enabled me to implement complex features including user authentication with persistent sessions, dynamic mentor discovery with search and filtering, Stripe payment integration with escrow functionality, and a comprehensive dashboard system for both mentors and mentees. The platform leverages Caffeine to handle backend operations, data storage for users, sessions, reviews and transactions and creates a responsive, intuitive user interface.
+Using Caffeine, I developed a full-stack web application with role-based authentication, real-time session management, and integrated payment processing support. Caffeine's capabilities enabled me to implement complex features including user authentication with persistent sessions, dynamic mentor discovery with search and filtering, Stripe payment integration with escrow functionality (available but as mockup now), and a comprehensive dashboard system for both mentors and mentees. The platform leverages Caffeine to handle backend operations, data storage for users, sessions, reviews and transactions and creates a responsive, intuitive user interface.
 
 ## **Who benefits from this solution? Who is your target audience?**
 
